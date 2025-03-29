@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JhonierMeneses15
-- 👀 I’m interested in the AI
-- 🌱I am currently studying the degree of computer engineering
-- 💞️ I’m looking to collaborate on AI project
+- 👀 I’m interested in the AI, Software Engineering and Big data
+- 🌱I am Software Engineering and Data engineer
+- 💞️ I'm looking to collaborate on interesting projects in any field
 - 📫 How to reach me on email: jhoniermeneses2001@gmail.com
 
 <!---
